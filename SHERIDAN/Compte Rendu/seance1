@@ -1,0 +1,16 @@
+Les tâches effectuées :
+
+•	J'ai commencé à me renseigner sur la structure du distributeur de boisson et notamment sur la fonction de la pompe 
+-->Difficulté : finalement on a changé d'avis mon à préférer faire un distributeur automatique (2eme projet sur lequel on hésitait beaucoup)
+
+•	Je le suis renseigné sur la structure du distributeur automatique. C'est-à-dire la modélisation 3D que nous devons créer sur Ink scape (puis aller découper).
+-->Difficulté : la modélisation 3D est extrêmement complexe une séance de 3h n'aurait jamais suffi pour tout faire. Donc dans le planning j'ai repoussé cette tâche aux vacances de noël lors desquels j'aurai plus de temps 
+
+•	J'ai essayé de configurer l'écran ODEL qui affichera les instructions aux utilisateurs :
+-->Difficulté :  je ne savais pas si la librairie à utiliser était le SSH1106 ou SSD1306. Dans un premier temps j'ai testé SSD1306 mais l'écran ne réagissait pas et restait noir. Finalement en testant le SSH1106 il a réagi. Il s'est allumé mais avec un effet enneigé. C'est la dernière manipulation que j'ai pu faire avant la fin du cours. 
+
+Objectif prochaine séance : 
+       -apprendre à manipuler un écran OLED en amont si je n'y arrive toujours pas   j'utiliserai un écran LCD. 	                    
+       -programmer les premières instructions 
+			 -programmer 2 boutons
+			 -faire une première (mini)maquette pour avoir une idée visuelle.  
