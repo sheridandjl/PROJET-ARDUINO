@@ -1,0 +1,20 @@
+Tâches effectuées:
+
+-Avant le tp j'ai retravaillé sur l'écran OLED. J'ai enfin trouvé la bibliothèque qui convenait. S'était "SH1106". 
+
+-J'ai programmé les premières instructions(elles sont très simples car je n'ai pas encore configuré les bouton).
+ J'ai réussi à afficher des mots qui apparaisset un par un. Mais j'aimerai un texte qui défile. Donc je verrais cette caractéristique prochainement.
+
+-J'ai fait la maquette du projet. Ce que j'ai fait est la version réduite où il n'y a que 2 compartiments dans le projet finale il y en aura 6. 
+ -->Difficulté: Ma camarade Wendy à réussi à programmer plusieurs cerveau moteur. Donc j'ai essayé d'en incorporer 2 à la maquette.
+                Au préalable elle avait tordu un fil de fer pour le faire ressembler aux spirales d'un dsitributeur automatque. 
+                J'ai tordu l'une des extrémités pour l'enfoncer dans le trou du cerveau moteur. Mais le cerveau moteur n'arrivait pas à faire tourner 
+                la spirale
+
+    -->Solution: Wendy a eu l'idée de fixé la spirale sur un cercle en carton puis de fixé ce cercle sur le cerveau moteur.
+                C'est ce que j'ai fais à l'aide d'un pistolet à colle. Et ça a marcher. 
+
+-Je voulais configurer les boutons poussoir mais j'ai pas eu assez de temps. 
+ La carte arduino étant assez loin des boutons poussoir la seule chose que j'ai eu le temps de faire
+ était de soudé de longs fils aux bouts de chaque extrémités des boutons.
+ 
